@@ -3,3 +3,11 @@
 - Estructuras de Control
     - Condicionales - OK
     - Bucles - OK
+- Funciones
+- Listas, Diccionarios, Tuplas
+- Manejo de excepciones
+- Programación Orientada a Objetos
+- Arquitectura Web
+- Django
+- Introduccion al testing
+- Proyecto final
