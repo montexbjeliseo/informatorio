@@ -1,4 +1,4 @@
-# Readme
+# Aprendiendo Python
 - Variables y tipos de datos (no en este repositorio)
 - Estructuras de Control
     - Condicionales - OK
@@ -7,7 +7,3 @@
 - Listas, Diccionarios, Tuplas
 - Manejo de excepciones
 - Programación Orientada a Objetos
-- Arquitectura Web
-- Django
-- Introduccion al testing
-- Proyecto final
