@@ -14,4 +14,5 @@ while(vivo):
             break
         else:
             perimetro += int(entrada)
-    print("Perímetro:", perimetro)
+    if vivo:
+         print("Perímetro:", perimetro)
