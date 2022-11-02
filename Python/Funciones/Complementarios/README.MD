@@ -167,6 +167,7 @@ Crear un programa que convierta un número entero (mayor que 1 y menor o igual q
 ## Ejercicio 31: Calendario
 
 Realizar un programa que pida un mes y un año (superior a 1900) y muestre el calendario del mes de esta manera:
+
 L    M    M    J    V    S    D
 
 ====================
@@ -175,8 +176,7 @@ L    M    M    J    V    S    D
 
  7    8    9   10   11  12  13
 
-14  15  16  17  18  19  20
-
+14  15  16  17  18  19 
 21  22  23  24  25  26  27
 
 28  29  30  31
